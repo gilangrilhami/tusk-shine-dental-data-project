@@ -1,5 +1,11 @@
-# 🦣✨🦷 Tusk Shine Dental Data Project  
-**Empowering Data-Driven Decisions for Tusk Shine Dental's New Beginning**  
+<p align="center">
+    <h1>🦣✨🦷 Tusk Shine Dental Data Project</h1>
+    <strong>Empowering Data-Driven Decisions for Tusk Shine Dental's New Beginning</strong>
+</p>
+
+<p align="center">
+    <img src="assets/tusk_shine_dental_logo.png" alt="Tusk Shine Dental Logo" width="200px">
+</p>
 
 ## **Project Description**  
 Tusk Shine Dental is more than just a dental clinic—it's the culmination of decades of experience, adaptability, and passion. Founded by a dedicated dentist with a remarkable journey from Indonesia to Texas, this fictional clinic embodies the pursuit of excellence and compassion in dental care.  
